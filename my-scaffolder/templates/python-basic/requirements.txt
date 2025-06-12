@@ -1,0 +1,2 @@
+# Dependências do projeto {{ project_name }}
+# Exemplo: requests==2.26.0

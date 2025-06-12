@@ -1,0 +1,27 @@
+# config/projects.yaml
+nodejs-express:
+  name: "Node.js Express API"
+  description: "Estrutura básica para uma API RESTful com Node.js e Express."
+  template_dir: "nodejs-express"
+  variables:
+    project_name: "my-nodejs-app"
+    author: "Seu Nome"
+    port: 3000
+
+python-basic:
+  name: "Python Basic Project"
+  description: "Estrutura básica para um projeto Python genérico."
+  template_dir: "python-basic"
+  variables:
+    project_name: "my-python-project"
+    author: "Seu Nome"
+    python_version: "3.9"
+
+html-css-js:
+  name: "HTML/CSS/JS Static Website"
+  description: "Estrutura para um website estático com HTML, CSS e JavaScript puros."
+  template_dir: "html-css-js"
+  variables:
+    project_name: "my-static-site"
+    author: "Seu Nome"
+    site_title: "Meu Website Incrível"
